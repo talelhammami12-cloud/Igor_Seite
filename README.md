@@ -17,6 +17,24 @@
 ### C Module
 ![C](neu/website/C_Module_transparent.png)
 
+## Schwarz-Weiß-Entwürfe (`schwarz_weiss/`)
+
+| Ordner | Inhalt | Wofür |
+|---|---|---|
+| `weiss_hintergrund/` | Schwarz auf Weiß | Druck, Dokumente |
+| `schwarz_transparent/` | Schwarz, transparent | Helle Jacken und Flächen |
+| `weiss_transparent/` | Weiß, transparent | Dunkle Jacken und Flächen |
+| `original/` | Unbearbeitete KI-Ausgabe | Archiv |
+
+### SW A Module
+![SW A](schwarz_weiss/weiss_hintergrund/SW_A_Module.png)
+
+### SW B Hexagon
+![SW B](schwarz_weiss/weiss_hintergrund/SW_B_Hexagon.png)
+
+### SW C Stahlträger
+![SW C](schwarz_weiss/weiss_hintergrund/SW_C_Stahltraeger.png)
+
 ## Erste Runde
 
 Fünf frühere Entwürfe, jeder in denselben Varianten.
