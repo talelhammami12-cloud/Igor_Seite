@@ -1,6 +1,25 @@
 # TeamPeric Dienstleistungen – Logo-Entwürfe
 
-Fünf Entwürfe, jeder in denselben Varianten.
+## Neue Entwürfe für Website und WhatsApp (`neu/`)
+
+| Ordner | Inhalt |
+|---|---|
+| `neu/website/` | Logo mit transparentem Hintergrund |
+| `neu/whatsapp/` | Quadratisches Profilbild (1024 × 1024), passt in den runden Ausschnitt |
+| `neu/original/` | Unbearbeitete KI-Ausgabe |
+
+### A Stahlträger
+![A](neu/website/A_Stahltraeger_transparent.png)
+
+### B Hexagon
+![B](neu/website/B_Hexagon_transparent.png)
+
+### C Module
+![C](neu/website/C_Module_transparent.png)
+
+## Erste Runde
+
+Fünf frühere Entwürfe, jeder in denselben Varianten.
 
 | Ordner | Inhalt | Wofür |
 |---|---|---|
